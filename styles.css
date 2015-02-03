@@ -34,7 +34,15 @@ P {font-weight:bold;
   }
 ul{margin:1px;
    }
-div  {float:right;
-    }
+img {
+	margin: 0px 0px 10px 10px;
+	box-shadow: 3px 3px 5px 1px;
+	height:500px;
+	width:400px;
+}
+
+a {color:yellow;
+   }
+
 
 
